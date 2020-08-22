@@ -1,3 +1,3 @@
-# My first Markdown file
+# Hello, world!
 
-Hello, world! I made my first Markdown file!
+I made my first Markdown file. :cheers:
