@@ -1,0 +1,4 @@
+labels:
+  - first-timers-only
+  - community-hubs/starter-pack
+template: .github/starter-pack-template.md
